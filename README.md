@@ -17,17 +17,18 @@
 ## 🌟 Overview
 **Mini Cybersec Lab PRO** is a comprehensive, all-in-one security station built with Python and CustomTkinter. Designed for developers, students, and security enthusiasts, it provides 14 integrated modules to demonstrate real-world vulnerabilities and defense mechanisms in a stunning, high-performance GUI.
 
-## �️ Integrated Modules (14)
+## 🛠️ Integrated Modules (14)
+All tools are now organized in a flat structure for maximum performance and portability.
 
 | Category | Tools |
 | :--- | :--- |
 | **🔑 Cryptography** | Strength Checker, Hash Generator, MD5 Cracker, B64/HEX Encoding |
 | **🌐 Network** | Port Scanner, DNS Recon, IP Intelligence, Web Header Scan |
 | **🕵️ Data Security** | LSB Steganography, Metadata (EXIF) Extractor |
-| **🔨 Simulations** | Customizable Brute Force, Phishing Scroot, Malware Key-Sandbox |
+| **🔨 Simulations** | Customizable Brute Force, Phishing Detector, Malware Key-Sandbox |
 | **🗑️ System** | Secure File Shredder (Multi-pass) |
 
-## � Key Features
+## 🚀 Key Features
 - **Modern UI/UX**: Sleek dark-mode interface with a scrollable navigation sidebar.
 - **Customizable Brute Force**: Real-time speed control (slider) and custom wordlist support.
 - **Geographic Intel**: Track IP locations and ISP data instantly.
